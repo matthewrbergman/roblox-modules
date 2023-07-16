@@ -1,7 +1,6 @@
 --[[
 
 UTILITIES
-- Test bullet point?
 
 ]]
 
